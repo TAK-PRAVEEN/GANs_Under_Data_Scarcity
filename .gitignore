@@ -1,0 +1,29 @@
+# Virtual environment (local, ~5GB — never commit)
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs / checkpoints (uncomment if you don't want these tracked)
+# *.log
+# *.ckpt
+# *.pth
