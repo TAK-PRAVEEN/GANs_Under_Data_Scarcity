@@ -2,9 +2,7 @@
 
 ### An Empirical Study of GAN Loss Functions When Training Data Is Limited
 
-> **📄 Research Paper (PDF):** _[Add Google Drive link here »](PASTE_YOUR_GOOGLE_DRIVE_PDF_LINK_HERE)_
-> _Placeholder — replace the link above once the paper PDF is uploaded to Google Drive (set sharing to “Anyone with the link → Viewer”)._
-
+> **📄 Research Paper (PDF):** _[Google Drive link »](PASTE_YOUR_GOOGLE_DRIVE_PDF_LINK_HERE)_
 ---
 
 ## Abstract
